@@ -1,0 +1,9 @@
+div {
+    padding-top: 10px;
+}
+
+.center {
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+}
